@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/asusucoin-project/asusucoin-detached-sigs.git"
+- "url": "https://github.com/dinimuhd7/asusucoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "asusucoin-osx-unsigned.tar.gz"

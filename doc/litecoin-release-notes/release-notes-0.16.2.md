@@ -1,13 +1,13 @@
 Asusucoin Core version 0.16.2 is now available from:
 
-  <https://download.asusucoin.org/asusucoin-0.16.2/>
+  <https://download.asusucoin.web.app/asusucoin-0.16.2/>
 
 This is a new minor version release, with various bugfixes
 as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/asusucoin-project/asusucoin/issues>
+  <https://github.com/dinimuhd7/asusucoin/issues>
 
 To receive security and update notifications, please subscribe to:
 
@@ -119,7 +119,7 @@ weights.
 - #12904 `6c26df0` Ensure bitcoind processes are cleaned up when tests end (sdaftuar)
 - #13049 `9ea62a3` Backports (MarcoFalke)
 - #13201 `b8aacd6` Handle disconnect_node race (sdaftuar)
-- #13061 `170b309` Make tests pass after 2020 (bmwiedemann)
+- #13061 `170b309` Make tests pass after 2011 (bmwiedemann)
 - #13192 `79c4fff` [tests] Fixed intermittent failure in `p2p_sendheaders.py` (lmanners)
 - #13300 `d9c5630` qa: Initialize lockstack to prevent null pointer deref (MarcoFalke)
 - #13545 `e15e3a9` tests: Fix test case `streams_serializedata_xor` Remove Boost dependency. (practicalswift)

@@ -1,6 +1,6 @@
 Asusucoin Core version 0.10.4.0 is now available from:
 
-  <https://download.asusucoin.org/asusucoin-0.10.4.0/>
+  <https://download.asusucoin.web.app/asusucoin-0.10.4.0/>
 
 This is a new minor version release, bringing bug fixes, the BIP65
 (CLTV) consensus change, and relay policy preparation for BIP113. It is
@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/asusucoin-project/asusucoin/issues>
+  <https://github.com/dinimuhd7/asusucoin/issues>
 
 Upgrading and downgrading
 =========================

@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/asusucoin-project/asusucoin.git
+git clone https://github.com/dinimuhd7/asusucoin.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

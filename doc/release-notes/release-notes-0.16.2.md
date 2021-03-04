@@ -71,7 +71,7 @@ frequently tested on them.
 - #12573 `88d1a64` Fix compilation when compiler do not support `__builtin_clz*` (532479301)
 
 ### Tests and QA
-- #13061 `170b309` Make tests pass after 2020 (bmwiedemann)
+- #13061 `170b309` Make tests pass after 2011 (bmwiedemann)
 - #13192 `79c4fff` [tests] Fixed intermittent failure in `p2p_sendheaders.py` (lmanners)
 - #13300 `d9c5630` qa: Initialize lockstack to prevent null pointer deref (MarcoFalke)
 - #13545 `e15e3a9` tests: Fix test case `streams_serializedata_xor` Remove Boost dependency. (practicalswift)

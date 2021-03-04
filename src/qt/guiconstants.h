@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Asusucoin"
-#define QAPP_ORG_DOMAIN "asusucoin.org"
+#define QAPP_ORG_DOMAIN "asusucoin.web.app"
 #define QAPP_APP_NAME_DEFAULT "Asusucoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Asusucoin-Qt-testnet"
 #define QAPP_APP_NAME_REGTEST "Asusucoin-Qt-regtest"

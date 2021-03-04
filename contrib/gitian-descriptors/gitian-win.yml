@@ -23,7 +23,7 @@ packages:
 - "python"
 - "rename"
 remotes:
-- "url": "https://github.com/asusucoin-project/asusucoin.git"
+- "url": "https://github.com/dinimuhd7/asusucoin.git"
   "dir": "asusucoin"
 files: []
 script: |

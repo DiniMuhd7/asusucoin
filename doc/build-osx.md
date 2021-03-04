@@ -43,7 +43,7 @@ Build Asusucoin Core
 
 1. Clone the Asusucoin Core source code:
 
-        git clone https://github.com/asusucoin-project/asusucoin
+        git clone https://github.com/dinimuhd7/asusucoin
         cd asusucoin
 
 2.  Build Asusucoin Core:

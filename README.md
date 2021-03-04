@@ -1,9 +1,9 @@
 Asusucoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/asusucoin-project/asusucoin.svg?branch=master)](https://travis-ci.org/asusucoin-project/asusucoin)
+[![Build Status](https://travis-ci.org/dinimuhd7/asusucoin.svg?branch=master)](https://travis-ci.org/dinimuhd7/asusucoin)
 
-https://asusucoin.org
+https://asusucoin.web.app
 
 What is Asusucoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Asusucoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Asusucoin Core software, see [https://asusucoin.org](https://asusucoin.org).
+the Asusucoin Core software, see [https://asusucoin.web.app](https://asusucoin.web.app).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/asusucoin-project/asusucoin/tags) are created
+completely stable. [Tags](https://github.com/dinimuhd7/asusucoin/tags) are created
 regularly to indicate new official, stable release versions of Asusucoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)

@@ -1,13 +1,13 @@
 Asusucoin Core version *0.15.1* is now available from:
 
-  <https://download.asusucoin.org/asusucoin-0.15.1/>
+  <https://download.asusucoin.web.app/asusucoin-0.15.1/>
 
 This is a new minor version release, including various bugfixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/asusucoin-project/asusucoin/issues>
+  <https://github.com/dinimuhd7/asusucoin/issues>
 
 To receive security and update notifications, please subscribe to:
 

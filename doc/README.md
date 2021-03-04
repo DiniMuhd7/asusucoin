@@ -5,7 +5,7 @@ Setup
 ---------------------
 Asusucoin Core is the original Asusucoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Asusucoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Asusucoin Core, visit [asusucoin.org](https://asusucoin.org/).
+To download Asusucoin Core, visit [asusucoin.web.app](https://asusucoin.web.app/).
 
 Running
 ---------------------

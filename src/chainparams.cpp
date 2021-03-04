@@ -133,7 +133,7 @@ public:
         base58Prefixes[EXT_PUBLIC_KEY] = {0xf2, 0x88, 0xB2, 0x1E};
         base58Prefixes[EXT_SECRET_KEY] = {0xaa, 0x88, 0xAD, 0xE4};
 
-        bech32_hrp = "acn";
+        bech32_hrp = "ACN";
 
         vFixedSeeds = std::vector<SeedSpec6>(pnSeed6_main, pnSeed6_main + ARRAYLEN(pnSeed6_main));
 
